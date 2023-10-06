@@ -1,0 +1,16 @@
+.ao{
+    text-align: center;
+}
+.btn {
+    
+    border: 2px solid green;
+    background-color: white;
+    color:green;
+    padding: 14px 28px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  .ap{
+    text-align: center;
+    color:RED; 
+  }
